@@ -1,5 +1,7 @@
 # react-keycloak-starter
 
+
+
 - `npm install -g create-react-app`
 - `create-react-app keycloak-react-starter`
 - add to package.json :
@@ -15,4 +17,6 @@
 - `npm install`
 - `yarn start`
 
-more info: https://scalac.io/blog/user-authentication-keycloak-1/
+all relevant code is in App.js, Welcome.js, and Secured.js. config is in public/keycloak.js
+
+more info on https://scalac.io/blog/user-authentication-keycloak-1/
