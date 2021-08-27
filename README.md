@@ -17,6 +17,6 @@
 - `npm install`
 - `yarn start`
 
-all relevant code is in App.js, Welcome.js, and Secured.js. config is in public/keycloak.js
+all relevant code is in App.js, Welcome.js, and Secured.js. config is in public/keycloak.json
 
 more info on https://scalac.io/blog/user-authentication-keycloak-1/
